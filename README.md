@@ -1,1 +1,1 @@
-# machine-learning
+# data-science-starters-guide
